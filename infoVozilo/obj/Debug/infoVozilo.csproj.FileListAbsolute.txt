@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\infoVozilo\bin\Debug\infoVozilo.exe.config
+C:\Users\ucenik\Documents\infoVozilo\bin\Debug\infoVozilo.exe
+C:\Users\ucenik\Documents\infoVozilo\bin\Debug\infoVozilo.pdb
+C:\Users\ucenik\Documents\infoVozilo\obj\Debug\infoVozilo.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\infoVozilo\obj\Debug\infoVozilo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\infoVozilo\obj\Debug\infoVozilo.Form1.resources
+C:\Users\ucenik\Documents\infoVozilo\obj\Debug\infoVozilo.Properties.Resources.resources
+C:\Users\ucenik\Documents\infoVozilo\obj\Debug\infoVozilo.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\infoVozilo\obj\Debug\infoVozilo.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\infoVozilo\obj\Debug\infoVozilo.exe
+C:\Users\ucenik\Documents\infoVozilo\obj\Debug\infoVozilo.pdb
